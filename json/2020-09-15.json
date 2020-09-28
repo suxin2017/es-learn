@@ -1,0 +1,28 @@
+{
+  "date": "2020-09-15",
+  "jest": [
+    { "word": "delightful", "translate": "令人愉悦的" },
+    { "word": "work out of the box", "translate": "开箱即用" },
+    { "word": "isolated", "translate": "独立的" },
+    { "word": "philosophy", "translate": "原理、哲理" },
+    { "word": "hypothetical", "translate": "假设的" },
+    { "word": "via", "translate": "经由" },
+    { "word": "several", "translate": "几个" },
+    { "word": "reach", "translate": "到达" },
+    { "word": "end up", "translate": "结束" },
+    { "word": "straightforward", "translate": "简单的" },
+    { "word": "omit", "translate": "漏掉" },
+    { "word": "statement", "translate": "生命" },
+    { "word": "certain", "translate": "确定的" },
+    { "word": "otherwise", "translate": "其他方面" },
+    { "word": "alternatively", "translate": "或者" },
+    { "word": "effectively", "translate": "有效的" },
+    { "word": "form", "translate": "形式、表格" },
+    { "word": "teardown", "translate": "拆毁" }
+  ],
+  "npm": [{ "word": "audited", "translate": "审查" }],
+  "yargs": [
+    { "word": "interactive", "translate": "交互" },
+    { "word": "elegant", "translate": "优雅的" }
+  ]
+}
